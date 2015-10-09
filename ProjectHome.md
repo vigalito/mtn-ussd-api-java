@@ -1,0 +1,1 @@
+MTN South Africa has a proprietary protocol which WASPs use to create USSD services called UXML. This is a Java implementation of UXML.
